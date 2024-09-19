@@ -1,6 +1,10 @@
 {
-  "name": "wxt-starter",
-  "description": "manifest.json description",
+  "name": "themed-boj",
+  "description": "Baekjoon Online Judge with customized theme",
+  "author": {
+    "name": "kiwiyou",
+    "email": "kiwiyou@kiwiyou.dev"
+  },
   "private": true,
   "version": "0.0.0",
   "type": "module",
